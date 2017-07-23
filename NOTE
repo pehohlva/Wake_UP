@@ -1,0 +1,298 @@
+tmp code or piece code 
+
+exit();
+
+
+
+$flappo = ('{"0":{"_wpcf7":"9"},"1":{"_wpcf7_version":"4.8"},"2":{"_wpcf7_locale":"it_IT"},"3":{"_wpcf7_unit_tag":"wpcf7-f9-p4-o1"},"4":{"_wpcf7_container_post":"4"},"5":{"_wpcf7_nonce":"7f6d0b74e9"},"6":{"your-name":"Peter Hohl"},"7":{"your-email":"pehohlva@gmail.com"},"8":{"your-subject":"il mondo di cosa "},"9":{"your-message":"palla text \ufb01\u00b1\u201c#\u00c7[]|{}\u2260\u00bf\u00b4\u00e5\u00df\u2202\u0192@\u00aa\u00ba\u2206\u00ac\u00a2\u00e6\u2264\u00a5\u2248\u00a9\u221a\u222b~\u00b5\u00ab\u2026\u0153\u2211\u20ac\u00ae\u2020\u03a9\u00b0\u00a1\u00f8\u03c0palla text \ufb01\u00b1\u201c#\u00c7[]|{}\u2260\u00bf\u00b4\u00e5\u00df\u2202\u0192@\u00aa\u00ba\u2206\u00ac\u00a2\u00e6\u2264\u00a5\u2248\u00a9\u221a\u222b~\u00b5\u00ab\u2026\u0153\u2211\u20ac\u00ae\u2020\u03a9\u00b0\u00a1\u00f8\u03c0palla text \ufb01\u00b1\u201c#\u00c7[]|{}\u2260\u00bf\u00b4\u00e5\u00df\u2202\u0192@\u00aa\u00ba\u2206\u00ac\u00a2\u00e6\u2264\u00a5\u2248\u00a9\u221a\u222b~\u00b5\u00ab\u2026\u0153\u2211\u20ac\u00ae\u2020\u03a9\u00b0\u00a1\u00f8\u03c0palla text \ufb01\u00b1\u201c#\u00c7[]|{}\u2260\u00bf\u00b4\u00e5\u00df\u2202\u0192@\u00aa\u00ba\u2206\u00ac\u00a2\u00e6\u2264\u00a5\u2248\u00a9\u221a\u222b~\u00b5\u00ab\u2026\u0153\u2211\u20ac\u00ae\u2020\u03a9\u00b0\u00a1\u00f8\u03c0palla text \ufb01\u00b1\u201c#\u00c7[]|{}\u2260\u00bf\u00b4\u00e5\u00df\u2202\u0192@\u00aa\u00ba\u2206\u00ac\u00a2\u00e6\u2264\u00a5\u2248\u00a9\u221a\u222b~\u00b5\u00ab\u2026\u0153\u2211\u20ac\u00ae\u2020\u03a9\u00b0\u00a1\u00f8\u03c0palla text \ufb01\u00b1\u201c#\u00c7[]|{}\u2260\u00bf\u00b4\u00e5\u00df\u2202\u0192@\u00aa\u00ba\u2206\u00ac\u00a2\u00e6\u2264\u00a5\u2248\u00a9\u221a\u222b~\u00b5\u00ab\u2026\u0153\u2211\u20ac\u00ae\u2020\u03a9\u00b0\u00a1\u00f8\u03c0palla text \ufb01\u00b1\u201c#\u00c7[]|{}\u2260\u00bf\u00b4\u00e5\u00df\u2202\u0192@\u00aa\u00ba\u2206\u00ac\u00a2\u00e6\u2264\u00a5\u2248\u00a9\u221a\u222b~\u00b5\u00ab\u2026\u0153\u2211\u20ac\u00ae\u2020\u03a9\u00b0\u00a1\u00f8\u03c0palla text \ufb01\u00b1\u201c#\u00c7[]|{}\u2260\u00bf\u00b4\u00e5\u00df\u2202\u0192@\u00aa\u00ba\u2206\u00ac\u00a2\u00e6\u2264\u00a5\u2248\u00a9\u221a\u222b~\u00b5\u00ab\u2026\u0153\u2211\u20ac\u00ae\u2020\u03a9\u00b0\u00a1\u00f8\u03c0palla text \ufb01\u00b1\u201c#\u00c7[]|{}\u2260\u00bf\u00b4\u00e5\u00df\u2202\u0192@\u00aa\u00ba\u2206\u00ac\u00a2\u00e6\u2264\u00a5\u2248\u00a9\u221a\u222b~\u00b5\u00ab\u2026\u0153\u2211\u20ac\u00ae\u2020\u03a9\u00b0\u00a1\u00f8\u03c0palla text \ufb01\u00b1\u201c#\u00c7[]|{}\u2260\u00bf\u00b4\u00e5\u00df\u2202\u0192@\u00aa\u00ba\u2206\u00ac\u00a2\u00e6\u2264\u00a5\u2248\u00a9\u221a\u222b~\u00b5\u00ab\u2026\u0153\u2211\u20ac\u00ae\u2020\u03a9\u00b0\u00a1\u00f8\u03c0palla text \ufb01\u00b1\u201c#\u00c7[]|{}\u2260\u00bf\u00b4\u00e5\u00df\u2202\u0192@\u00aa\u00ba\u2206\u00ac\u00a2\u00e6\u2264\u00a5\u2248\u00a9\u221a\u222b~\u00b5\u00ab\u2026\u0153\u2211\u20ac\u00ae\u2020\u03a9\u00b0\u00a1\u00f8\u03c0palla text \ufb01\u00b1\u201c#\u00c7[]|{}\u2260\u00bf\u00b4\u00e5\u00df\u2202\u0192@\u00aa\u00ba\u2206\u00ac\u00a2\u00e6\u2264\u00a5\u2248\u00a9\u221a\u222b~\u00b5\u00ab\u2026\u0153\u2211\u20ac\u00ae\u2020\u03a9\u00b0\u00a1\u00f8\u03c0palla text \ufb01\u00b1\u201c#\u00c7[]|{}\u2260\u00bf\u00b4\u00e5\u00df\u2202\u0192@\u00aa\u00ba\u2206\u00ac\u00a2\u00e6\u2264\u00a5\u2248\u00a9\u221a\u222b~\u00b5\u00ab\u2026\u0153\u2211\u20ac\u00ae\u2020\u03a9\u00b0\u00a1\u00f8\u03c0palla text \ufb01\u00b1\u201c#\u00c7[]|{}\u2260\u00bf\u00b4\u00e5\u00df\u2202\u0192@\u00aa\u00ba\u2206\u00ac\u00a2\u00e6\u2264\u00a5\u2248\u00a9\u221a\u222b~\u00b5\u00ab\u2026\u0153\u2211\u20ac\u00ae\u2020\u03a9\u00b0\u00a1\u00f8\u03c0palla text \ufb01\u00b1\u201c#\u00c7[]|{}\u2260\u00bf\u00b4\u00e5\u00df\u2202\u0192@\u00aa\u00ba\u2206\u00ac\u00a2\u00e6\u2264\u00a5\u2248\u00a9\u221a\u222b~\u00b5\u00ab\u2026\u0153\u2211\u20ac\u00ae\u2020\u03a9\u00b0\u00a1\u00f8\u03c0palla text \ufb01\u00b1\u201c#\u00c7[]|{}\u2260\u00bf\u00b4\u00e5\u00df\u2202\u0192@\u00aa\u00ba\u2206\u00ac\u00a2\u00e6\u2264\u00a5\u2248\u00a9\u221a\u222b~\u00b5\u00ab\u2026\u0153\u2211\u20ac\u00ae\u2020\u03a9\u00b0\u00a1\u00f8\u03c0palla text \ufb01\u00b1\u201c#\u00c7[]|{}\u2260\u00bf\u00b4\u00e5\u00df\u2202\u0192@\u00aa\u00ba\u2206\u00ac\u00a2\u00e6\u2264\u00a5\u2248\u00a9\u221a\u222b~\u00b5\u00ab\u2026\u0153\u2211\u20ac\u00ae\u2020\u03a9\u00b0\u00a1\u00f8\u03c0palla text \ufb01\u00b1\u201c#\u00c7[]|{}\u2260\u00bf\u00b4\u00e5\u00df\u2202\u0192@\u00aa\u00ba\u2206\u00ac\u00a2\u00e6\u2264\u00a5\u2248\u00a9\u221a\u222b~\u00b5\u00ab\u2026\u0153\u2211\u20ac\u00ae\u2020\u03a9\u00b0\u00a1\u00f8\u03c0palla text \ufb01\u00b1\u201c#\u00c7[]|{}\u2260\u00bf\u00b4\u00e5\u00df\u2202\u0192@\u00aa\u00ba\u2206\u00ac\u00a2\u00e6\u2264\u00a5\u2248\u00a9\u221a\u222b~\u00b5\u00ab\u2026\u0153\u2211\u20ac\u00ae\u2020\u03a9\u00b0\u00a1\u00f8\u03c0"},"10":{"radio-612":"non fare"}}');
+/* 
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+$mo = json_decode($flappo,true);
+var_dump($mo);
+
+die();
+
+$fla = addslashes('[{"_wpcf7":"9"},{"_wpcf7_version":"4.8"},{"_wpcf7_locale":"it_IT"},{"_wpcf7_unit_tag":"wpcf7-f9-p4-o1"},{"_wpcf7_container_post":"4"},{"_wpcf7_nonce":"7f6d0b74e9"},{"your-name":"Peter Hohl"},{"your-email":"pehohlva@gmail.com"},{"your-subject":"core action : fallo , con i metri"},{"your-message":"ciao ... \"cono\" ciao"},{"radio-612":"non fare"}]');
+$mo = json_decode($fla,true);
+var_dump($mo);
+define('CAPTURE_POST_ARRAY','_wpcf7_version');
+$flatstrings =addslashes('{"_wpcf7":"9"},{"_wpcf7_version":"4.8"},{"_wpcf7_locale":"it_IT"},{"_wpcf7_unit_tag":"wpcf7-f9-p4-o1"},{"_wpcf7_container_post":"4"},{"_wpcf7_nonce":"7f6d0b74e9"},{"your-name":"Peter Hohl"},{"your-email":"pehohlva@gmail.com"}'); //// '
+
+$byline = explode(",",stripslashes($flatstrings));
+if (is_array($byline)) {
+    var_dump($byline);
+}
+$i = -1;
+$xm = array();
+foreach ($byline as $value) {
+    $x = json_decode($value,true);
+    if (is_array($x)) {
+        $i++;
+        $main = reset($x);
+        $kkey = key($x);
+        $xm[$i] = '['.$kkey .']=@='.addslashes($main);
+    }
+}
+
+if (is_array($xm)) {
+    var_dump($xm);
+}
+
+
+ $errors ='';
+ $pos = strpos($flatstrings,CAPTURE_POST_ARRAY,1);
+       if ($pos > 0 ) {
+           var_dump($flatstrings);
+           echo "trovoo.....oooooo";  
+       } else {
+           
+           echo "non trovo -------------";
+       }
+echo "non trovoxx";      
+
+
+
+  if (strtolower($_SERVER["REQUEST_METHOD"]) == 'post') {
+         $data = capture_post_as_json();
+         echo "---".$data;
+         exit();
+         if (strlen($data) > 0) {
+             @file_put_contents(WAKEUP_LOGFILE_NOTICE,$data."\n",FILE_APPEND);
+             //// $obj::on_register_form_data($data);
+         }
+    }
+
+
+
+
+
+
+
+
+
+                   $queryput ="INSERT INTO ".$t." (id, myda_tetime, type, coreline) VALUES (NULL,now(),  '".$type."','".addslashes ($textsum)."')";
+                    $t = self::get_table_index();
+                             if (self::generic_table_exist( $t ) ) {
+                                    $idx = $wpdb->query($queryput);
+                                    if ($idx == false) {
+                                       wp_die(wp_sprintf('<strong>Sorry wrong query sql ('.$queryput.') ... ' . __FILE__.':'.__LINE__ . ' <strong/>'));  
+                                    }
+                              }
+
+
+
+if ( CURRENT_CORE_ACTION == "post" ) {
+    ///// ob_start();
+    //// print_r($_POST);
+    ///// var_dump($_REQUEST);
+    //// $valuenow = ob_get_clean();
+    //// $valuenow = json_decode($_POST, true);
+    ////  $id = file_put_contents(WAKE_UP_FILE,$valuenow,FILE_APPEND);
+}
+
+
+/// if ( ! class_exists( 'Monitor_Objects' ) ) {
+    
+ 
+    
+/// }
+
+    
+    class Monitor_Objects {
+        
+         // singleton instance 
+          var $instance = NULL;  // self::
+         // open self Objects?
+          var $php_thread = 0;
+         // Plugin basename.
+	  var $plugin =''; /// /  plugin_basename( __FILE__ );
+         // to be include other file 
+          var $file_base = ""; ///  __DIR__ . "/";
+          // Table for back up message and post.
+          var $table = 'wake_up_msg'; //// append prefix
+          ///  private static self::  netbean can make
+          //   private $this-> netbean can make
+          ///  start here class 
+          // normal construct from self init 
+                public function __construct() {
+			ini_set( 'max_execution_time', 4 );
+                        if ( ! version_compare( PHP_VERSION, '5.3.0', '>=' ) ) {
+                            //// minimum php version!
+                            //// deactivate_plugins( __FILE__ );
+                            wp_die(wp_sprintf('<strong>Sorry, This plugin <' . PLUGIN_W_NAME . '> requires PHP 5.3.0</strong>'));
+                            
+                        }
+                        /// Monitor_Objects::getInstance();
+                        self::action_log('__construct start','debug');
+                        //// continue ok .... 
+                        if ( CURRENT_CORE_ACTION == "post" ) {
+                            //// self::on_save_post();
+                        }
+                }
+                
+                /// get object or init 
+                public static function getInstance() {
+                        //// $i = self::php_thread;
+                        ////if($i <5){
+                                ////$i++;
+                                ////$this->instance = new self();
+                                ///$this->php_thread = $i;
+                                /// return self::instance;
+                         //// }
+		    return false;
+	        }
+                /// clone getInstance()
+                 public static function get_object() {
+                         return self::getInstance();
+		}
+            
+                
+                 //// save action && wake up 
+                public static function on_save_post() {
+                    /// global $wpdb;
+                    self::action_log('on_save_post start','debug');
+                    $t = $GLOBALS[ 'wpdb' ]->base_prefix . self::table;
+                    ob_start();
+                    $array = array();
+                    $set = -1;
+                    //// search _wpcf
+                    foreach($_POST as $key => $value) {
+                        $set++;
+                        $array[$set][$key] = $value; /// clean if needed!
+                     }
+                     
+                    $valuenow = json_encode($array);
+                    //// print_r($_POST);
+                    //// $valuenow = ob_get_clean();
+                    $errors = ob_get_clean();
+                    self::action_log($valuenow . $errors,'post');
+                    self::action_log('on_save_post end','debug');
+		}
+                
+              
+                //// deactivation plugin
+                public static function on_deactivation() {
+                    self::action_log('on_deactivation start','debug');
+                    self::truncate_table();
+		}
+                 //// uninstall plugin
+                public static function on_uninstall() {
+                    self::action_log('on_uninstall start','debug');
+                    //// self::truncate_table();
+                    /// delete file table and all 
+		}
+                
+                private function get_table_index() {
+                    global $wpdb;
+                    $t = $GLOBALS[ 'wpdb' ]->base_prefix . $this->table;
+                    return $t;
+                }
+                //// make table log to log action by type 
+                public static function on_activation() {
+                    
+                    self::action_log('on_activation start','debug');
+                    self::generic_table_exist('demo_asfhasfkashfa');
+                    self::generic_table_exist($this->get_table_index()); 
+                }
+                /// action uninstall items 
+                private function truncate_table() {
+                           /// wp_sprintf('uninstall');
+                           ob_start();
+                           global $wpdb;
+                           $t = $GLOBALS[ 'wpdb' ]->base_prefix . self::table;
+                           $idxa = $wpdb->query("TRUNCATE ".$t);  /// remove old data 
+                           if ($idxa == false) {
+                              wp_die(wp_sprintf('<strong>Sorry wrong query TRUNCATE sql... ' . __FILE__.':'.__LINE__ . ' <strong/>'));  
+                           }
+                           $errors = ob_get_clean();  
+                           //// wordpress remove table automatic!
+                }
+                
+                //// log on file action e debug or go silent at end!
+                public  function action_log( $rec = 'NotGoing' , $type = 'error' ) {
+                    $date = date_create();
+                    $timerun = date_timestamp_get($date);
+                    $textsum = $timerun."| ".$rec;
+                    /// table  log action 
+                    if (PLUGIN_WORK_MODUS == 22) {
+                    global $wpdb;
+                    $t = $GLOBALS[ 'wpdb' ]->base_prefix . self::table;
+                    if (!$this->generic_table_exist($t)) {
+                        /// $this->build_tables();
+                    }
+                    $queryput ="INSERT INTO ".$t." (id, type, coreline) VALUES (NULL, '".$type."','".addslashes ($textsum)."')";
+                    $idx = $wpdb->query($queryput);
+                           if ($idx == false) {
+                              wp_die(wp_sprintf('<strong>Sorry wrong query sql ('.$queryput.') ... ' . __FILE__.':'.__LINE__ . ' <strong/>'));  
+                           }
+                    }
+                    /// file log action 
+                    if (PLUGIN_WORK_MODUS == 1) {
+                      $kbi = false;
+                      $temp_file = tempnam(sys_get_temp_dir(), 'WakeUp'); /// mac /private/var/tmp linux /tmp
+                      $tmp_file_log = dirname($temp_file) . "/" . WAKEFILETMP;
+                      @file_put_contents(WAKE_UP_FILE,"\n"); /// put on file and go next!
+                      if (is_writable(WAKE_UP_FILE)) {
+                          $kbi = file_put_contents(WAKE_UP_FILE,date_timestamp_get($date) . " |" .$rec . "\n",FILE_APPEND); 
+                      } else {
+                          $kbi = file_put_contents($tmp_file_log,date_timestamp_get($date) . " |" .$rec . "\n",FILE_APPEND);
+                      }
+                        if ($kbi == false ) {
+                           wp_die(wp_sprintf('<strong>Sorry, This plugin <' . PLUGIN_W_NAME . '> is unable to write on ' .WAKE_UP_FILE. ' or  '.$tmp_file_log.' </strong>')); 
+                        }
+                     }
+                }
+                
+                
+                private function build_tables() {
+                    global $wpdb;
+                    $t = $GLOBALS[ 'wpdb' ]->base_prefix . self::table;
+                    if (strlen($t) < 4 ) {
+                       wp_die(wp_sprintf('<strong>Sorry wrong sript ... ' . __FILE__.':'.__LINE__ . ' <strong/>'));  
+                    }
+                        $charset_collate = $wpdb->get_charset_collate();
+			$idx = $wpdb->query(
+				"CREATE TABLE IF NOT EXISTS ".$t." (
+				id INT UNSIGNED AUTO_INCREMENT NOT NULL PRIMARY KEY,
+				type varchar(22) DEFAULT NULL,
+				coreline text ) ".
+			        $charset_collate );
+                        if ($idx == false) {
+                              wp_die(wp_sprintf('<strong>Sorry wrong query sql... ' . __FILE__.':'.__LINE__ . ' <strong/>'));  
+                           }
+                        ///// if table CREATE TABLE IF NOT EXISTS ???
+                        ob_start();
+                        $idx = $wpdb->query("ALTER TABLE ".$t." ADD FULLTEXT KEY core_search (coreline)");
+                        $wpdb->query("COMMIT"); 
+                        $loglast = ob_get_clean();
+                        /// go away table
+                        if (strlen($loglast) > 9 ) {
+                        self::action_log('Error: '.$loglast,'error');
+                        }
+                }
+                //// show create table [db_name.]table_name; return true or false 
+                public function generic_table_exist($table_check) {
+                    global $wpdb;
+                    if($wpdb->get_var("SHOW TABLES LIKE '$table_check'") != $table_check) {
+                        self::action_log('Debug: FALSE generic_table_exist: '.$table_check,'debug');
+                        return false;
+                    } else {
+                        /// $dbtable = DB_NAME .'.'.$table_check;
+                        //// $myrows = $wpdb->get_results("show create table ".$dbtable);
+                        ////var_dump($wpdb->get_results("show create table ".$dbtable));
+                        ////exit();
+                        return true;
+                    }
+                }
+                /// delete class 
+                public function __destruct() {
+                   self::$instance = NULL; 
+                }
+             
+    }
+
+
