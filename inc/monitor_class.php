@@ -3,7 +3,7 @@
  * Plugin Name: Wake_UP
  * Plugin URI:  http://www.google.com/
  * Text Domain: wake_up
- * Description: Register Global Post & Register or send and action-hooks. Wordpress Help Objects
+ * <b>Description:<b/> Register Global Post & Register or send and action-hooks. Wordpress Help Objects
  * Version:     1.1.0-dev
  * License:     GPL-3+
  * Author:      Peter H.
@@ -30,8 +30,7 @@ class Monitor_Wake_Ups {
     private static $table_index_is_install;  /* if main table exist in this process   */ 
 
    /**
-     * Description: Auto load __construct ,  so if possibel to having all parameter database on standby 
-     *
+     * <b>Description:<b/> Auto load __construct ,  so if possibel to having all parameter database on standby 
      * @param null
      * @return null
      */
@@ -42,16 +41,12 @@ class Monitor_Wake_Ups {
      }
      
     /**
-     * Description: Init the class static so if possibel to having all parameter database on standby 
-     *
+     * <b>Description:<b/> Init the class static so if possibel to having all parameter database on standby 
      * @param null
      * @return null
      */
      
     function initialize() {
-        ini_set( 'max_execution_time', 10 );
-        date_default_timezone_set('UTC');
-        ini_set('html_errors', false);
         self::$table_index_name = self::get_table_index();
         self::$table_index_is_install = self::isdb_run();
         @file_put_contents(WAKEUP_LOGFILE_NOTICE,".NEW initialize NEW.".date('h:i:s')."\n",FILE_APPEND);
@@ -64,12 +59,8 @@ class Monitor_Wake_Ups {
      }
      
       /**
-     * Description: 
-     *
+     * <b>Description:<b/> 
      * @param null
-     *
-     * @param null
-     *
      * @return null
      */
      
@@ -90,8 +81,7 @@ class Monitor_Wake_Ups {
      */
     
      /**
-     * Description: 
-     *
+     * <b>Description:<b/> 
      * @param null
      * @return null
      */
@@ -105,7 +95,7 @@ class Monitor_Wake_Ups {
      }
      
       /**
-     * Description: 
+     * <b>Description:<b/> 
      *
      * @param null
      * @return null
@@ -126,7 +116,7 @@ class Monitor_Wake_Ups {
          
      }
       /**
-     * Description: 
+     * <b>Description:<b/> 
      *
      * @param null
      * @return null
@@ -140,10 +130,10 @@ class Monitor_Wake_Ups {
      }
      
      /**
-     * Description: Install table if not exist in db wordpress
-     *
-     * @param null
-     * @return null
+     * Install table if not exist in db wordpress and set all parameter
+     * 
+     * @param nothing
+     * @return none
      */
      public function install() {
             // do not generate any output here
@@ -186,7 +176,7 @@ class Monitor_Wake_Ups {
             self::action_log("Call ".__FUNCTION__ .":".__FILE__.":".__LINE__.".","debug");
      }
      /**
-     * Description: 
+     * <b>Description:<b/> 
      * @param string on table name to chck if exist.
      * @method bool test if table $table_check name xx exist
      * 
@@ -207,7 +197,7 @@ class Monitor_Wake_Ups {
                     }
        }
        /**
-     * Description: get table name 
+     * <b>Description:<b/> get table name 
      *
      *
      * @return string table name + wordpress prefix 
@@ -221,7 +211,7 @@ class Monitor_Wake_Ups {
  
 
      /**
-     * Description: log on file action e debug or go silent at end!
+     * <b>Description:<b/> log on file action e debug or go silent at end!
      *
      * @param $rec text to log 
      *
